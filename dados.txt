@@ -1,0 +1,21 @@
+-----------CATEGORIAS	
+{ "nome" : "Luvas" }
+{ "nome" : "Mascaras" }
+{ "nome" : "Descartaveis" }
+
+-----------PRODUTOS
+{ "nome" : "Mascara de proteção", "id_categoria" : 2, "detalhes" : "Mascara para proteção contra covid", "valor": 15, "foto" : "https://www.avare.sp.gov.br/img/novidades/878f6b42562df9371d1bde793edfbb30.jpg", "quantidade" : 50 }
+{ "nome": "Avental de enfermeiro", "id_categoria" : 2, "detalhes": "Avental de enfermeiro azul para proteção", "valor" : 3.50, "foto" : "https://image.freepik.com/fotos-gratis/amigavel-medico-sorridente-enfermeiro-em-equipamentos-de-protecao-individual-e-avental-polegar-recomenda-recomendar-mascara-medica_1258-16556.jpg", "quantidade" : 100 }
+{ "nome": "Protetor facial com viseira incolor hospitalar - Face shield Incolor ", "id_categoria" : 1, "detalhes": "Protetor facial composto por um visor em policarbonato incolor. Possui uma testeira em material plástico rígido, suspensão com ajuste simples.Utilizado para uso hospitalar em tempos de Covid-19.", "valor" : 20, "foto" : "https://lojazeusdobrasil.com.br/arquivos/produtos/imagens_adicionais/protetor-facial-com-viseira-incolor-hospitalar-face-shield_3061.jpeg", "quantidade" : 200 }
+{ "nome": "Luvas látex amarela forrada P CA 38310", "id_categoria" : 3, "detalhes": "Luva para baixa proteção química, látex com forro flocado de algodão, antiderrapante. Indicado para: Manuseio de alimentos, produtos agrícolas, higienização, serviços gerais etc.", "valor" : 80, "foto" : "https://lojazeusdobrasil.com.br/resize/imagecache/foto/1024x1024_1.0x1_90/luvas-latex-amarela-forrada_447.jpeg", "quantidade" : 10 }
+{ "nome": "Óculos proteção Imperial com lente incolor policarbonato", "id_categoria" : 3, "detalhes": "O óculos de segurança foi confeccionado em policarbonato óptico, possui armação de nylon e hastes com comprimento regulável. A curvatura lateral de suas lentes aumenta a área de visão", "valor" : 4.49, "foto": "https://lojazeusdobrasil.com.br/arquivos/produtos/imagens_adicionais/oculos-protecao-imperial-com-lente-incolor-policarbonato_1049.jpeg", "quantidade" : 80 }
+{ "nome": "Bota PVC Calfor preta, forrada, cano médio 39 CA 30536", "id_categoria" : 2, "detalhes": "Calçado ocupacional tipo bota Classe II (impermeável), confeccionada com policloreto de vinila (PVC) e borracha nitrílica.", "valor" : 42.9, "foto" : "https://lojazeusdobrasil.com.br/resize/imagecache/foto/1024x1024_1.0x1_90/bota-pvc-calfor-preta-forrada-cano-medio_147.jpeg", "quantidade" : 350 }
+{ "nome": "Avental PVC preto forrado com bainha 111x60,5cm CA 38302", "id_categoria" : 2, "detalhes": "Avental de segurança confeccionado em PVC com forro de poliéster. Tiras soldadas eletronicamente, sendo uma no pescoço e duas na cintura com fivela plástica para fechamento, acabamento nas laterais por solda.", "valor" : 8.49, "foto" : "https://lojazeusdobrasil.com.br/arquivos/produtos/imagens_adicionais/avental-pvc-preto-forrado-com-bainha-111x605cm_1257.jpeg", "quantidade" : 1850 }
+{ "nome": "Luvas mista látex/neoprene forrada G CA 16779", "id_categoria" : 3, "detalhes":  "Luva de segurança confeccionada em látex/neoprene, superfície externa antiderrapante (tipo colmeia) na palma e , dedos. Forrada com flocos de algodão", "valor" : 49, "foto" : "https://lojazeusdobrasil.com.br/arquivos/produtos/imagens_adicionais/luvas-mista-latex-neoprene-forrada_477.jpeg", "quantidade" : 30 }
+
+-----------USUARIOS
+{ "nome" : "Rosivan Cardoso Ferreira", "email" : "rosivancardoso767@gmail.com", "senha" : "12345" }
+
+-----------ENDERECOS
+{"id_usuario" : 1, "estado" : "AM", "cidade" : "Itacoatiara", "bairro" : "Jaurary 2", "rua" : "Av. Mario Andreazza", "numero" : "79", "complemento" : "Apartamento D" }
+{"id_usuario" : 1, "estado" : "AM", "cidade" : "Manaus", "bairro" : "Megan Tranior", "rua" : "Av. das Torres", "numero" : "852", "complemento" : "Apartamento  Z" }
